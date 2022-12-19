@@ -1,0 +1,5 @@
+
+function helloWorld(){
+    var str; console.log("Hello World!");
+    "Hello World!";
+}
