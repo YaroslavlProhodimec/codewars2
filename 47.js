@@ -1,0 +1,1 @@
+constconst cockroachSpeed = s => Math.floor(s / 0.036); cockroachSpeed = s => Math.floor(s / 0.036);
